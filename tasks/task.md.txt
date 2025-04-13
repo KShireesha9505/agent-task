@@ -1,0 +1,8 @@
+## Task: Product of Array Except Self
+
+Write a Python function `calculate_products(nums)` that returns a list where each element is the product of all the numbers in the list except the number at that index.
+
+### Example
+
+Input: [1, 2, 3, 4]  
+Output: [24, 12, 8, 6]
